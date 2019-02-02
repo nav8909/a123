@@ -1,0 +1,16 @@
+{
+  "short_name": ".: |v@n :.",
+  "name": "Demo de |v@n",
+  "theme_color": "#333",
+  "background_color": "#333",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "ibl-fv.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    }
+  ],
+  "start_url": "/"
+}
+
